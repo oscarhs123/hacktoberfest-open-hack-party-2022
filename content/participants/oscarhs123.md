@@ -1,6 +1,6 @@
 ---
 fullName: Oscar Jose Hernandez Sanchez 
-imageURL: https://avatars.githubusercontent.com/u/9919?s=200&v=4
+imageURL: https://avatars.githubusercontent.com/u/30503134?v=4
 email: oscarhs123@ciencias.unam.mx
 ---
 
